@@ -1,2 +1,2 @@
- #capa livro de receita --ss
+ #capa livro de receita --
 
